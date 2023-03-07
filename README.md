@@ -28,7 +28,7 @@ sudo apt install webmin -y
 ```
 The installation process may take a few minutes to complete.
 ## Step 3: Accessing Webmin
-After installation, Webmin will be available on your system's default HTTP port (80). To access Webmin, open a web browser and navigate to http://<your-server-ip>:10000.
+After installation, Webmin will be available on your system's default HTTP port (80). To access Webmin, open a web browser and navigate to https://IP:10000.
 You may encounter a security warning about an untrusted certificate when accessing Webmin for the first time. This is normal and can be safely ignored. Click the "Advanced" button and proceed to access the Webmin login page.
 ## Step 4: Logging in to Webmin
 Log in to Webmin using your system's root or sudo user credentials. Once logged in, you can use the Webmin interface to manage your system's resources and services.
